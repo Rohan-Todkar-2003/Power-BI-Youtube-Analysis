@@ -136,4 +136,5 @@ Feel free to reach out if you’re hiring for a **Data Analyst** or **Business I
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rohantodkar0705@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rohantodkar0705/)
-🌐 Portfolio (Coming soon!)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://rohantodkar-portfolio.vercel.app/)
+
