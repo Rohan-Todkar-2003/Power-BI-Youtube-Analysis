@@ -46,8 +46,18 @@ It helps teams **track performance**, **understand audience behavior**, and **ma
 
 ## 📷 Dashboard Screenshots & Insights
 
-### 🧠 Page 1: Overview Dashboard
-![Overview](./assets/front1.png)
+
+### 🔻 Page 1: Interactive Entry Page
+![Landing](Images/Entry Page.png)
+
+#### 🔍 Insights:
+- Clean, modern landing screen with Netflix-like layout using thumbnails.
+- Acts as an interactive dashboard **entry point** for users to explore further.
+- Strong first impression for non-technical users and stakeholders — **UX/UI driven storytelling**.
+
+---
+### 🧠 Page 2: Overview Dashboard
+![Overview](Images/KPIs Page.png)
 
 #### 🔍 Insights:
 - **24M+ Total Likes**, **10M+ Watch Time**, and **$493K Revenue** show strong platform performance.
@@ -59,8 +69,8 @@ It helps teams **track performance**, **understand audience behavior**, and **ma
 
 ---
 
-### 📈 Page 2: Top Channels & Subscriber Demographics
-![Channels](./assets/2ndpage.png)
+### 📈 Page 3: Top Channels & Subscriber Demographics
+![Channels](Images/Channel & Subscriber Insights Page.png)
 
 #### 🔍 Insights:
 - **TechGuru** leads in subscribers (36.38K) and revenue ($43K).
@@ -70,8 +80,8 @@ It helps teams **track performance**, **understand audience behavior**, and **ma
 
 ---
 
-### 🌍 Page 3: Global Performance & ROI
-![Global](./assets/3rdpage.png)
+### 🌍 Page 4: Global Performance & ROI
+![Global](Images/Category & Engagement Insights Page.png)
 
 #### 🔍 Insights:
 - **India and Germany** drive highest views across categories — especially **Tech in India (10.45K views)** and **Gaming in Germany (8.77K views)**.
@@ -82,16 +92,6 @@ It helps teams **track performance**, **understand audience behavior**, and **ma
 - **CTR vs. Views** analysis shows:
   - **Lifestyle** has high views and highest CTR (5.33%), making it top-performing for marketers.
   - **Education** has the lowest CTR (4.61%) despite good views — needs content strategy review.
-
----
-
-### 🔻 Page 4: Interactive Entry Page
-![Landing](./assets/4thpage.png)
-
-#### 🔍 Insights:
-- Clean, modern landing screen with Netflix-like layout using thumbnails.
-- Acts as an interactive dashboard **entry point** for users to explore further.
-- Strong first impression for non-technical users and stakeholders — **UX/UI driven storytelling**.
 
 ---
 
