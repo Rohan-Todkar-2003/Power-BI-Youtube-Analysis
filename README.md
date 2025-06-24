@@ -48,7 +48,7 @@ It helps teams **track performance**, **understand audience behavior**, and **ma
 
 
 ### 🔻 Page 1: Interactive Entry Page
-![Landing](./Images/Entry Page.png)
+![Landing](https://github.com/Rohan-Todkar-2003/Power-BI-Youtube-Analysis/blob/main/Images/Entry%20Page.png)
 
 #### 🔍 Insights:
 - Clean, modern landing screen with Netflix-like layout using thumbnails.
@@ -57,7 +57,7 @@ It helps teams **track performance**, **understand audience behavior**, and **ma
 
 ---
 ### 🧠 Page 2: Overview Dashboard
-![Overview](.Images/KPIs Page.png)
+![Overview](https://github.com/Rohan-Todkar-2003/Power-BI-Youtube-Analysis/blob/main/Images/KPIs%20Page.png)
 
 #### 🔍 Insights:
 - **24M+ Total Likes**, **10M+ Watch Time**, and **$493K Revenue** show strong platform performance.
@@ -70,7 +70,7 @@ It helps teams **track performance**, **understand audience behavior**, and **ma
 ---
 
 ### 📈 Page 3: Top Channels & Subscriber Demographics
-![Channels](.Images/Channel & Subscriber Insights Page.png)
+![Channels](https://github.com/Rohan-Todkar-2003/Power-BI-Youtube-Analysis/blob/main/Images/Channel%20%26%20Subscriber%20Insights%20Page.png)
 
 #### 🔍 Insights:
 - **TechGuru** leads in subscribers (36.38K) and revenue ($43K).
@@ -81,7 +81,7 @@ It helps teams **track performance**, **understand audience behavior**, and **ma
 ---
 
 ### 🌍 Page 4: Global Performance & ROI
-![Global](.Images/Category & Engagement Insights Page.png)
+![Global](https://github.com/Rohan-Todkar-2003/Power-BI-Youtube-Analysis/blob/main/Images/Category%20%26%20Engagement%20Insights%20Page.png)
 
 #### 🔍 Insights:
 - **India and Germany** drive highest views across categories — especially **Tech in India (10.45K views)** and **Gaming in Germany (8.77K views)**.
