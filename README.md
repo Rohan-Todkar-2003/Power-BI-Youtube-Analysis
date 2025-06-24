@@ -134,6 +134,6 @@ Rather than focusing on visuals alone, this dashboard was designed to **solve st
 
 Feel free to reach out if you’re hiring for a **Data Analyst** or **Business Intelligence** role or want to collaborate!
 
-📧 rohantodkar0705@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rohantodkar0705/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rohantodkar0705@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rohantodkar0705/)
 🌐 Portfolio (Coming soon!)
